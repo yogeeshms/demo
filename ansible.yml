@@ -1,0 +1,5 @@
+---
+ - hosts: all
+   - name: ping
+   debug:
+        msg: hi welcome to ansible
